@@ -10,8 +10,9 @@ wmsubscription_campaign_monitor
 
 ## Installation
 
-This package requires PHP 7.1, Drupal 8 or higher and 
-[wieni/wmsubscription](https://github.com/wieni/wmsubscription). 
+This package requires PHP 8.1 or higher, Drupal 9, 10 or 11 and
+[wieni/wmsubscription](https://github.com/wieni/wmsubscription).
+Drupal 8 and PHP 7 sites should stay on version 1.0.0.
 It can be installed using Composer:
 
 ```bash
